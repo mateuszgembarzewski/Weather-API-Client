@@ -17,16 +17,28 @@ A test run of the program can look like:
 $ java -classpath .:javax.json-1.0.jar WeatherAPI
 
 14 => 41 F
+
 15 => 42 F
+
 16 => 43 F
+
 17 => 42 F
+
 18 => 42 F
+
 19 => 41 F
+
 20 => 39 F
+
 21 => 37 F
+
 22 => 36 F
+
 23 => 35 F
+
 00 => 34 F
+
 01 => 34 F
+
 
 Average temperature over the next 12 hours: 38.83 F
